@@ -1,0 +1,58 @@
+body {
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: 400;
+  font-style: oblique;
+  background-image: url("https://kamp.linux.org.tr/2016/wp-content/themes/lkd_kamp/images/background.png");
+  background-position: top;
+}
+.navigation-container {
+  float: right;
+
+
+}
+
+.clear {
+  clear: both;
+}
+
+.logo {
+  margin: 40px auto;
+  padding: 50px;
+  display: block;
+  float: left;
+  height: 250px;
+}
+
+
+.menu
+{
+  list-style: none;
+  text-align: center;
+
+}
+
+.menu li {
+  display: inline-block;
+  margin: 0;
+  padding: 0;
+
+}
+
+.menu li a {
+
+  text-decoration: none;
+  font-size: 18px;
+  padding: 8px;
+  background-color: #e6702e;
+  color: white;
+}
+
+footer {
+  background: url("images/footer.png");
+  position: fixed;
+  height: 133px;
+  width: 100%;
+  bottom: 0;
+  background-repeat: no-repeat;
+}
