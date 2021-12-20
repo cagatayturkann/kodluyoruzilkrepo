@@ -1,0 +1,55 @@
+.logo {
+  margin-top: 20px;
+}
+.logo img {  
+  margin: auto;
+  display: block;
+}
+
+.searchBar{
+  background-color: #EEEEEE;
+  /* display: block; */
+}
+
+.searchBar p {
+  text-align: center;
+}
+
+.searchBar input {
+  width: 275px;
+  margin-left: 40.5%;
+}
+
+.searchButtons {
+  margin-left: 42.5%;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+.links div {
+  width: 100%;
+  text-align: center;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+.links > div > ul >li {
+  list-style-type: none;
+}
+
+.links > div:nth-of-type(1) {
+  background-color: #7EE5DA;
+}
+.links > div:nth-of-type(2) {
+  background-color: #70CCC2;
+}
+.links > div:nth-of-type(3) {
+  background-color: #62B3AA;
+}
+
+footer p {
+  font-size: 14px;
+  display: flex;
+  justify-content: center;
+}
