@@ -1,0 +1,17 @@
+body, .mainContent {
+  background: #E9ECEF;
+}
+
+.aboutUsButton a {
+  text-decoration: none;
+  color: #fff;
+}
+
+#mainPageList li {
+  text-align: center;
+  list-style-position: inside;
+}
+
+.card-title {
+  color: purple;
+}
