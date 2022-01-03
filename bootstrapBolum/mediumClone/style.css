@@ -1,0 +1,96 @@
+/* navbar settings */
+#navbarContainer, .headerTitle {
+  background-color: #C4E2FF;
+  border-bottom: 1px solid #000;
+}
+#getStartedButton {
+  border: 1px solid black;
+  border-radius: 200px;
+  background-color: #000;
+  padding: 6px 17px;
+  margin-left: 20px;
+  font-weight: 800;
+  font-size: 14px;
+  margin-top: 3px;
+}
+#startWritingButton {
+  border: 1px solid black;
+  border-radius: 100px;
+  background-color: #fff;
+  padding: 5px 30px;
+  font-weight: 600;
+  font-size: 16px;
+  text-decoration: none;
+  color: #000;
+}
+.headerTitle {
+  margin-top: 80px;
+}
+
+/* trending and discoverBlog section settings */
+.trendingHeader {
+  font-size: 16px;
+  margin-top: 40px;
+}
+.trendingHeader i span {
+  margin-left: 10px;
+  font-weight: 800;
+}
+.articleNumber {
+  color: #E6E6E6;
+  font-size: 20px;
+}
+.articleTitle {
+  font-size: 16px;
+  font-weight: 700;
+  margin-top: 10px;
+}
+.articleInfos, .blogInfos {
+  font-size: 13px;
+  margin-top: 10px;
+}
+.authorImage {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+.authorName {
+  font-size: 13px;
+  margin-left: 3px;
+  font-weight: 500;
+}
+.blogTitle {
+  font-size: 22px;
+  font-weight: 700;
+  margin-top: 10px;
+}
+.blogSummary {
+  font-size: 16px;
+  font-weight: 400;
+  margin-top: 10px;
+}
+
+/* discover section settings */
+.discoverButtons li {
+  margin: 3px;
+}
+.discoverTitle {
+  font-size: 12px;
+  font-weight: 700;
+}
+.discoveryNavigations li a{
+  color: #757575;
+  font-size: 16px;
+  font-weight: 500;
+  text-decoration: none;
+}
+.blogAndDiscover article {
+  height: 200px;
+}
+.discoverSticky {
+  /* width: 25%; */
+  height: 100%; 
+  position: -webkit-sticky;
+  position: sticky;
+  top: 12%;
+}
