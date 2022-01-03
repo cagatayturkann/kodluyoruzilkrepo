@@ -1,9 +1,6 @@
 # Medium Clone
 
-Bu proje [Medium](https://medium.com/) aşağıda görsellerde bulunan Medium sayfasının HTML, CSS ve Bootstrap 5 kullanarak hazırlanmış bir klonudur. Sayfaya gitmek için xx bağlantısını tıklayın.
+Bu proje [Medium](https://medium.com/) aşağıda görsellerde bulunan Medium sayfasının HTML, CSS ve Bootstrap 5 kullanarak hazırlanmış bir klonudur. Sayfaya gitmek için <a href="http://projects.cagatayturkan.com/mediumclone">Medium Clone</a> bağlantısını tıklayın.
 
-<img src="https://i.ibb.co/jWcGwrq/medium1.jpg" width="1024" height="768" alt="">
-<img src="https://i.ibb.co/H7cwMbR/medium2.jpg" width="1024" height="768" alt="">
-<!-- ![medium1](https://i.ibb.co/jWcGwrq/medium1.jpg =1024x768)
-![medium2](https://i.ibb.co/H7cwMbR/medium2.jpg =1024x768) -->
-## Installation
+https://i.ibb.co/jWcGwrq/medium1.jpg
+https://i.ibb.co/H7cwMbR/medium2.jpg
