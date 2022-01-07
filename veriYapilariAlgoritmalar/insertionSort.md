@@ -1,5 +1,5 @@
-<!-- [22,27,16,2,18,6] -> Insertion Sort -->
-<!-- 1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+[22,27,16,2,18,6] -> Insertion Sort 
+1. Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 
 Stage 1 > [22,27,16,2,18,6]
 Stage 2 > [2,27,16,22,18,6]
@@ -18,4 +18,4 @@ Average Case
 Stage 1 > [2,3,5,8,7,9,4,15,6]
 Stage 2 > [2,3,4,8,7,9,5,15,6]
 Stage 3 > [2,3,4,5,7,9,8,15,6]
-Stage 4 > [2,3,4,5,6,9,8,15,7] -->
+Stage 4 > [2,3,4,5,6,9,8,15,7] 
