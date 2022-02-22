@@ -4,7 +4,6 @@ let list = document.querySelector("#list");
 // let deleteButton = document.querySelectorAll(".");
 let test = document.querySelector(".toast-body");
 
-
 function deleteTodo() {
   //deleting element from list
   document.querySelectorAll(".deleteTodoButton").forEach((item) => {
@@ -16,7 +15,6 @@ function deleteTodo() {
 }
 
 function doneTodo() {
-  //marking done or undone todos
   let todos = document.querySelectorAll("li");
   todos.forEach((item) => {
     item.addEventListener("click", () => {
